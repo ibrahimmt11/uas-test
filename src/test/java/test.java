@@ -23,7 +23,7 @@ public class test {
         // Test case 3: FPB dari 10 dan 15 adalah 5
         a = 10;
         b = 15;
-        expectedFpb = 5;
+        expectedFpb = 3;
         actualFpb = TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit.funcfpb(a, b);
         assertEquals(expectedFpb, actualFpb);
     }
