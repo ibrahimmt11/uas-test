@@ -37,6 +37,9 @@ public class TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit {
         int inputan1 = writeline.nextInt();
         System.out.println(" Input bilangan 2: ");
         int inputan2 = writeline.nextInt();
+        System.out.println(" Input bilangan 2: ");
+        System.out.println(" Input bilangan 2: ");
+        System.out.println(" Input bilangan 2: ");
         
         int fpb = funcfpb(inputan1,inputan2);
         int kpk = (inputan1 * inputan2) / fpb;
