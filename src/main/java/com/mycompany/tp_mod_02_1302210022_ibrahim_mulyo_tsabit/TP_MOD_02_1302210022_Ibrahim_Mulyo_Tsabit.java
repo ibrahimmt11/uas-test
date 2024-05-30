@@ -43,8 +43,8 @@ public class TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit {
 
         System.out.println(" ");
 
-        System.out.println("Hasil KPK: "+ kpk);
-        System.out.println("Hasil FPB: "+ fpb);
+        System.out.println("Hasil dari KPK: "+ kpk);
+        System.out.println("Hasil dari FPB: "+ fpb);
 
         System.out.println(" ");
     }
