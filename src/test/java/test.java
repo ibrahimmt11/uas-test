@@ -9,7 +9,7 @@ public class test {
         // Test case 1: FPB dari 12 dan 18 adalah 6
         int a = 12;
         int b = 18;
-        int expectedFpb = 6;
+        int expectedFpb = 7;
         int actualFpb = TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit.funcfpb(a, b);
         assertEquals(expectedFpb, actualFpb);
 
@@ -23,7 +23,7 @@ public class test {
         // Test case 3: FPB dari 10 dan 15 adalah 5
         a = 10;
         b = 15;
-        expectedFpb = 3;
+        expectedFpb = 5;
         actualFpb = TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit.funcfpb(a, b);
         assertEquals(expectedFpb, actualFpb);
     }
