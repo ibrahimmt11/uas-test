@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Java CI with Maven-deploy
+name: Java CI with Maven-deployment
 
 on:
   pull_request:
