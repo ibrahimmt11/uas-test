@@ -33,9 +33,9 @@ public class TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit {
         System.out.println(" ");
 
         //2
-        System.out.println("Input bilangan 1: ");
+        System.out.println(" Input bilangan 1: ");
         int inputan1 = writeline.nextInt();
-        System.out.println("Input bilangan 2: ");
+        System.out.println(" Input bilangan 2: ");
         int inputan2 = writeline.nextInt();
         
         int fpb = funcfpb(inputan1,inputan2);
